@@ -2495,14 +2495,17 @@ unsigned short status_base_matk(struct block_list *bl, const struct status_data*
 		case BL_MOB:
 			///! TODO: Confirm these RENEWAL calculations. Currently is using previous calculation before 083cf5d9 (issue: #321) and until re/mob_db.txt is updated.
 			//return status->int_ + level;
-			return status->int_ + (status->int_ / 2) + (status->dex / 5) + (status->luk / 3) + (level / 4);
+			//statusAtk under renewal MATK. https://irowiki.org/wiki/MATK
+			//Every point of INT provides Status MATK + 1.5
+
+			return status->int_*1.5 + (status->int_ / 2) + (status->dex / 5) + (status->luk / 3) + (level / 4);
 		case BL_HOM:
 			return status_get_homint(bl) + level;
 		case BL_MER:
-			return status->int_ + status->int_ / 5 * status->int_ / 5;
+			return status->int_*1.5 + status->int_ / 5 * status->int_ / 5;
 		case BL_PC:
 		default:
-			return status->int_ + (status->int_ / 2) + (status->dex / 5) + (status->luk / 3) + (level / 4);
+			return status->int_*1.5 + (status->int_ / 2) + (status->dex / 5) + (status->luk / 3) + (level / 4);
 	}
 }
 #endif
