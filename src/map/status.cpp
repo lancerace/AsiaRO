@@ -2483,6 +2483,8 @@ unsigned int status_weapon_atk(struct weapon_atk wa, struct map_session_data *sd
 }
 #endif
 
+//this code does not seem to revolve with magic attack calculation for renewal. because it will still be override by 
+//status->matk_min = status->matk_max = status_base_matk(bl, status, status_get_lv(bl));  around line 5066
 #ifndef RENEWAL
 	unsigned short status_base_matk_min(const struct status_data* status) { return status->int_ + (status->int_ / 7) * (status->int_ / 7); }
 	unsigned short status_base_matk_max(const struct status_data* status) { return status->int_ + (status->int_ / 5) * (status->int_ / 5); }
@@ -5043,7 +5045,7 @@ void status_calc_bl_main(struct block_list *bl, /*enum scb_flag*/int flag)
 #else
 		/**
 		 * RE MATK Formula (from irowiki:http:// irowiki.org/wiki/MATK)
-		 * MATK = (sMATK + wMATK + eMATK) * Multiplicative Modifiers
+		 * MATK = (sMATK + wMATK + eMATK) * Multiplicative Modifiers, Finalizing magic attack calculation
 		 **/
 		status->matk_min = status->matk_max = status_base_matk(bl, status, status_get_lv(bl));
 
