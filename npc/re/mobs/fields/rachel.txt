@@ -18,85 +18,102 @@
 //==================================================
 // ra_fild01 - Audhumbla Grassland
 //==================================================
-ra_fild01,0,0	monster	Desert Wolf	1106,130,5000
-ra_fild01,0,0	monster	Roween	1782,30,5000
-ra_fild01,0,0	monster	Baby Desert Wolf	1107,20,5000
-ra_fild01,0,0	monster	Anopheles	1627,10,5000
+ra_fild01,0,0	monster	Muscipular	1780,60
+ra_fild01,173,170,106,80	monster	Geographer	1368,30,300000,120000
+ra_fild01,0,0	monster	Drosera	1781,20
+ra_fild01,0,0	monster	Galion	1783,5
+ra_fild01,0,0	monster	Gryphon	1259,3,3600000
 
 //==================================================
 // ra_fild02 - Disabled on Renewal
 //==================================================
-
+ra_fild02,0,0	monster	Muscipular	1780,60
+ra_fild02,0,0	monster	Drosera	1781,20
+ra_fild02,0,0	monster	Galion	1783,15
+ra_fild02,0,0,0,0	boss_monster	Atroce	1785,1,14400000,600000,1
 //==================================================
 // ra_fild03 - The Plain of Ida
 //==================================================
-ra_fild03,0,0	monster	Hill Wind	1680,130,5000
-ra_fild03,0,0	monster	Roween	1782,30,5000
-ra_fild03,0,0	monster	Anacondaq	1030,20,5000
-ra_fild03,0,0	monster	Anopheles	1627,20,5000
+ra_fild03,0,0	monster	Galion	1783,35
+ra_fild03,0,0	monster	Drosera	1781,10
+ra_fild03,0,0	monster	Roween	1782,10
+ra_fild03,0,0	monster	Stapo	1784,10
 ra_fild03,0,0,0,0	boss_monster	Atroce	1785,1,10800000,600000,1
 
 //==================================================
 // ra_fild04 - Audhumbla Grassland
 //==================================================
-ra_fild04,0,0	monster	Hill Wind	1680,130,5000
-ra_fild04,0,0	monster	Roween	1782,30,5000
-ra_fild04,0,0	monster	Desert Wolf	1106,20,5000
-ra_fild04,0,0	monster	Anopheles	1627,20,5000
+ra_fild04,0,0	monster	Roween	1782,60
+ra_fild04,0,0	monster	Stapo	1784,20
+ra_fild04,0,0	monster	Wild Rose	1261,10
+ra_fild04,0,0	monster	Galion	1783,3
 ra_fild04,0,0,0,0	boss_monster	Atroce	1785,1,18000000,600000,1
 
 //==================================================
 // ra_fild05 - Audhumbla Grassland
 //==================================================
-ra_fild05,0,0	monster	Kobold	1133,70,5000
-ra_fild05,0,0	monster	Kobold	1134,70,5000
-ra_fild05,0,0	monster	Kobold	1135,70,5000
-ra_fild05,0,0	monster	Anopheles	1627,10,5000
+ra_fild05,0,0	monster	Hill Wind	1680,70
+ra_fild05,0,0	monster	Drosera	1781,20
+ra_fild05,170,200,106,115	monster	Geographer	1368,10
+
 
 //==================================================
 // ra_fild06 - Portus Luna
 //==================================================
-ra_fild06,0,0	monster	Kobold Archer	1282,70,5000
-ra_fild06,0,0	monster	Kobold	1133,40,5000
-ra_fild06,0,0	monster	Kobold	1134,40,5000
-ra_fild06,0,0	monster	Kobold	1135,40,5000
-ra_fild06,0,0	monster	Anopheles	1627,10,5000
-ra_fild06,0,0	monster	Kobold Leader	1296,1,1800000,1200000
+ra_fild06,0,0	monster	Hill Wind	1680,50
+ra_fild06,0,0	monster	Anopheles	1627,20
+ra_fild06,0,0	monster	Drosera	1781,10
+
 
 //==================================================
 // ra_fild07 - Disabled on Renewal
 //==================================================
+ra_fild07,0,0	monster	Roween	1782,50
+ra_fild07,0,0	monster	Galion	1783,20
+ra_fild07,0,0	monster	Stapo	1784,10
 
 //==================================================
 // ra_fild08 - The Plain of Ida
 //==================================================
-ra_fild08,0,0	monster	Anacondaq	1030,100,5000
-ra_fild08,0,0	monster	Roween	1782,50,5000
-ra_fild08,0,0	monster	Hill Wind	1680,20,5000
-ra_fild08,0,0	monster	Baby Desert Wolf	1107,10,5000
-ra_fild08,0,0	monster	Anopheles	1627,10,5000
+ra_fild08,0,0	monster	Stapo	1784,100
+ra_fild08,0,0	monster	Drops	1113,40
+ra_fild08,0,0	monster	Drosera	1781,20
+
 
 //==================================================
 // ra_fild09 - Disabled on Renewal
 //==================================================
-
+ra_fild09,0,0	monster	Drosera	1781,60
+ra_fild09,0,0	monster	Metaling	1613,20
+ra_fild09,0,0	monster	Hill Wind	1680,10
+ra_fild09,0,0	monster	Harpy	1376,1,3600000
 //==================================================
 // ra_fild10 - Disabled on Renewal
 //==================================================
+ra_fild10,0,0	monster	Stapo	1784,30
+ra_fild10,0,0	monster	Galion	1783,20
+ra_fild10,0,0	monster	Roween	1782,10
 
 //==================================================
 // ra_fild11 - Disabled on Renewal
 //==================================================
+ra_fild11,0,0	monster	Drops	1113,100
+ra_fild11,0,0	monster	Stapo	1784,40
+ra_fild11,0,0	monster	Roween	1782,2
+ra_fild11,0,0	monster	Yellow Plant	1081,15
+ra_fild11,0,0	monster	Red Plant	1078,5
 
 //==================================================
 // ra_fild12 - The Plain of Ida
 //==================================================
-ra_fild12,0,0	monster	Roween	1782,130,5000
-ra_fild12,0,0	monster	Anopheles	1627,30,5000
-ra_fild12,0,0	monster	Baby Desert Wolf	1107,15,5000
-ra_fild12,0,0	monster	Yellow Plant	1081,15,10000
-ra_fild12,0,0	monster	Red Plant	1078,5,10000
-
+ra_fild12,0,0	monster	Drops	1113,100
+ra_fild12,0,0	monster	Stapo	1784,40
+ra_fild12,0,0	monster	Poporing	1031,5
+ra_fild12,0,0	monster	Yellow Plant	1081,15
+ra_fild12,0,0	monster	Red Plant	1078,5
 //==================================================
 // ra_fild13 - Disabled on Renewal
 //==================================================
+ra_fild13,0,0	monster	Stapo	1784,60
+ra_fild13,0,0	monster	Drops	1113,40
+ra_fild13,0,0	monster	Roween	1782,5

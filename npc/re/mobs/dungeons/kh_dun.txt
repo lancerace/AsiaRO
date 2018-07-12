@@ -16,12 +16,12 @@
 //==================================================
 // kh_dun01 - Robot Factory level 1 
 //==================================================
-kh_dun01,0,0	monster	Aliza	1737,45,5000
+kh_dun01,0,0	monster	Aliza	1737,45,300000
 kh_dun01,0,0	monster	Alice	1275,25,5000
 kh_dun01,0,0	monster	Constant	1738,8,5000
 kh_dun01,0,0	monster	Constant	1745,5,5000
-kh_dun01,0,0	monster	Alicel	1735,3,5000
-kh_dun01,0,0	monster	Aliot	1736,3,5000
+kh_dun01,0,0	monster	Alicel	1735,3,600000
+kh_dun01,0,0	monster	Aliot	1736,3,600000
 
 //==================================================
 // kh_dun02 - Robot Factory level 2

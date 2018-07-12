@@ -10,44 +10,81 @@
 //= 1.0 Split from combined Alde and CT spawn file. [L0ne_W0lf]
 //= 1.1 Added nightmare clock tower. [Ridley8819]
 //============================================================
-
+//nightmare clock tower dungeon
 //==================================================
 // c_tower1 - Clock Tower 1f
 //==================================================
-c_tower1,0,0	monster	Rideword	1195,70,5000
-c_tower1,0,0	monster	Punk	1199,70,5000
-c_tower1,0,0	monster	Bathory	1102,1,5000
-c_tower1,0,0	monster	Clock Tower Manager	1270,1,5000
+c_tower1,0,0	monster	Punk	1199,65,5000
+c_tower1,0,0	monster	Bathory	1102,10,5000
+c_tower1,0,0	monster	Elder	1377,2,300000
+c_tower1,0,0	monster	Clock Tower Manager	1270,1,30000
+c_tower1,0,0	monster	Baphomet Jr. 1101,26,5000
+c_tower1,0,0	monster	Baphomet Jr. 1101,19,60000
+
 
 //==================================================
 // c_tower2 - Clock Tower 2f
 //==================================================
 c_tower2,0,0	monster	Clock	1269,40,5000
-c_tower2,0,0	monster	Punk	1199,40,5000
-c_tower2,0,0	monster	Rideword	1195,12,5000
-c_tower2,0,0	monster	Mimic	1191,3,5000
-c_tower2,0,0	monster	Elder	1377,2,5000
-c_tower2,0,0	monster	Clock Tower Manager	1270,1,5000
+c_tower2,0,0	monster	Clock	1269,15,420000
+c_tower2,0,0	monster	Punk	1199,45,5000
+c_tower2,0,0	monster	Archer Skeleton	1016,20,5000
+c_tower2,0,0	monster	Deviruchi 1109,1,340000
+c_tower2,0,0	monster	Deviruchi 1109,1,330000
+c_tower2,0,0	monster	Deviruchi 1109,1,360000
+c_tower2,0,0	monster	Deviruchi 1109,3,380000
+c_tower2,0,0	monster	Elder	1377,2,300000
+c_tower2,0,0	monster	Clock Tower Manager	1270,1,30000
 
 //==================================================
 // c_tower3 - Clock Tower 3f
 //==================================================
-c_tower3,0,0	monster	Alarm	1193,80,5000
-c_tower3,0,0	monster	Mimic	1191,7,5000
-c_tower3,0,0	monster	Rideword	1195,6,5000
-c_tower3,0,0	monster	Clock Tower Manager	1270,3,5000
+c_tower2,0,0	monster	Archer Skeleton	1016,15,5000
+c_tower3,0,0	monster	Alarm	1193,75,5000
+c_tower3,0,0	monster	Rideword	1195,15,60000
+c_tower3,0,0	monster	Clock Tower Manager	1270,1,5000
 
 //==================================================
 // c_tower4 - Clock Tower 4f
 //==================================================
-c_tower4,0,0	monster	Clock	1269,35,5000
-c_tower4,0,0	monster	Owl Duke	1320,30,5000
-c_tower4,0,0	monster	Alarm	1193,30,5000
-c_tower4,0,0	monster	Rideword	1195,15,5000
-c_tower4,0,0	monster	Mimic	1191,12,5000
-c_tower4,0,0	monster	Whisper	1179,5,5000
-c_tower4,0,0	monster	Clock Tower Manager	1270,3,5000
-c_tower4,0,0	monster	Elder	1377,2,5000
+c_tower4,0,0	monster	Horong	1129,1,5000
+c_tower4,0,0	monster	Owl Duke	1320,40,5000
+c_tower4,0,0	monster	Alarm	1193,70,5000
+c_tower4,98,180	monster	Rideword	1195,1,300000,150000
+c_tower4,97,180	monster	Rideword	1195,1,240000,150000
+c_tower4,96,180	monster	Rideword	1195,1,350000,150000
+c_tower4,95,180	monster	Rideword	1195,1,410000,150000
+c_tower4,94,180	monster	Rideword	1195,1,320000,150000
+c_tower4,93,180	monster	Rideword	1195,1,260000,150000
+c_tower4,92,180	monster	Rideword	1195,1,280000,150000
+c_tower4,91,180	monster	Rideword	1195,1,330000,150000
+c_tower4,87,180	monster	Rideword	1195,1,400000,150000
+c_tower4,86,180	monster	Rideword	1195,1,380000,150000
+c_tower4,80,179	monster	Rideword	1195,1,360000,150000
+c_tower4,80,180	monster	Rideword	1195,1,350000,150000
+c_tower4,80,181	monster	Rideword	1195,1,290000,150000
+c_tower4,80,182	monster	Rideword	1195,1,300000,150000
+c_tower4,80,183	monster	Rideword	1195,1,340000,150000
+c_tower4,128,194	monster	Mimic	1191,1,1800000,900000
+c_tower4,38,193	monster	Mimic	1191,1,1800000,900000
+c_tower4,37,159	monster	Mimic	1191,1,1800000,900000
+c_tower4,31,139	monster	Mimic	1191,1,1800000,900000
+c_tower4,104,14	monster	Mimic	1191,1,1800000,900000
+c_tower4,104,27	monster	Mimic	1191,1,900000,400000
+c_tower4,105,24	monster	Mimic	1191,1,900000,400000
+c_tower4,205,105	monster	Mimic	1191,1,1800000,900000
+c_tower4,0,0	monster	Mimic	1191,1,1800000,900000
+c_tower4,148,85	monster	Mimic	1191,1,1800000,900000
+c_tower4,189,51	monster	Mimic	1191,1,1800000,900000
+c_tower4,170,34	monster	Mimic	1191,1,1800000,900000
+c_tower4,0,0	monster	Clock Tower Manager	1270,2,1800000
+c_tower4,0,0	monster	Clock Tower Manager	1270,1,3600000
+c_tower4,0,0	monster	Elder	1377,1,3600000,1800000
+c_tower4,0,0	monster	Elder	1377,1,1800000,600000
+c_tower4,42,41	monster	Executioner	1205,1,7200000
+c_tower4,0,0	monster	Tirfing	1204,1,7200000
+c_tower4,0,0	monster	Mysteltainn	1203,1,7200000
+c_tower4,0,0	monster	Abysmal Knight 1219,1,3600000
 
 //==================================================
 // c_tower2_ - Clock Tower Nightmare 2f

@@ -12,6 +12,8 @@
 //= 1.2 More official spawns [Playtester]
 //============================================================
 
+//mapname,xcoordinate,ycoordinate,radiusspawnx,radiusspawny,mmonster,monstername,modID,AmountSpawn,Spawnrate(milsec) [1000]
+
 // Nameless Island
 nameless_n,93,211,51,62	monster	Zombie Slaughter	1864,3,15000
 nameless_n,93,211,51,62	monster	Ragged Zombie	1865,3,15000

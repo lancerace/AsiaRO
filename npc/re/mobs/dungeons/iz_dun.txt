@@ -14,44 +14,46 @@
 //============================================================
 
 //==================================================
-// iz_dun00 - Undersea Tunnel
+// iz_dun00 - Undersea Tunnel F1
 //==================================================
-iz_dun00,0,0	monster	Plankton	1161,65,5000
-iz_dun00,0,0	monster	Marina	1141,45,5000
-iz_dun00,0,0	monster	Vadon	1066,15,5000
-iz_dun00,0,0	monster	Kukre	1070,15,5000
-iz_dun00,0,0	monster	Hydra	1068,15,5000
+iz_dun00,0,0	monster	Plankton	1161,130,5000
+iz_dun00,0,0	monster	Marina	1141,90,5000
+iz_dun00,0,0	monster	Vadon	1066,60,5000
+iz_dun00,0,0	monster	Kukre	1070,70,5000
+iz_dun00,0,0	monster	Hydra	1068,60,5000
 iz_dun00,0,0	monster	Black Mushroom	1084,5,180000,90000
 
 //==================================================
-// iz_dun01 - Undersea Tunnel
+// iz_dun01 - Undersea Tunnel F2
 //==================================================
-iz_dun01,0,0	monster	Vadon	1066,60,5000
-iz_dun01,0,0	monster	Kukre	1070,50,5000
-iz_dun01,0,0	monster	Hydra	1068,30,5000
-iz_dun01,0,0	monster	Marina	1141,15,5000
-iz_dun01,0,0	monster	Cornutus	1067,15,5000
-iz_dun01,0,0	monster	Plankton	1161,10,5000
+iz_dun01,0,0	monster	Vadon	1066,120,5000
+iz_dun01,0,0	monster	Kukre	1070,85,5000
+iz_dun01,0,0	monster	Hydra	1068,60,5000
+iz_dun01,0,0	monster	Marina	1141,60,5000
+iz_dun01,0,0	monster	Cornutus	1067,30,300000
+iz_dun01,0,0	monster	Plankton	1161,20,5000
+iz_dun01,0,0	monster	Thara Frog	1034,55,5000
 iz_dun01,0,0	monster	Black Mushroom	1084,10,180000,90000
 
 //==================================================
-// iz_dun02 - Undersea Tunnel
+// iz_dun02 - Undersea Tunnel F3
 //==================================================
-iz_dun02,0,0	monster	Cornutus	1067,60,5000
-iz_dun02,0,0	monster	Marse	1144,40,5000
-iz_dun02,0,0	monster	Obeaune	1044,40,5000
-iz_dun02,0,0	monster	Hydra	1068,40,5000
-iz_dun02,0,0	monster	Merman	1264,1,5000
+iz_dun02,0,0	monster	Cornutus	1067,120,5000
+iz_dun02,0,0	monster	Thara Frog	1034,40,5000
+iz_dun02,0,0	monster	Marse	1144,80,5000
+iz_dun02,0,0	monster	Obeaune	1044,80,5000
+iz_dun02,0,0	monster	Hydra	1068,80,5000
+iz_dun02,0,0	monster	Merman	1264,1,1800000
 iz_dun02,0,0	monster	Black Mushroom	1084,15,180000,90000
 
 //==================================================
 // iz_dun03 - Undersea Tunnel
 //==================================================
-iz_dun03,0,0	monster	Phen	1158,45,5000
-iz_dun03,0,0	monster	Marc	1045,40,5000
-iz_dun03,0,0	monster	Swordfish	1069,40,5000
-iz_dun03,0,0	monster	Marine Sphere	1142,20,5000
-iz_dun03,0,0	monster	Merman	1264,3,5000
+iz_dun03,0,0	monster	Phen	1158,90,5000
+iz_dun03,0,0	monster	Marc	1045,80,5000
+iz_dun03,0,0	monster	Swordfish	1069,80,5000
+iz_dun03,0,0	monster	Marine Sphere	1142,40,5000
+iz_dun03,0,0	monster	Merman	1264,6,5000
 iz_dun03,200,144	monster	Hydra	1068,1,282000,150000
 iz_dun03,178,253	monster	Hydra	1068,1,300000,150000
 iz_dun03,193,143	monster	Hydra	1068,1,300000,150000
@@ -86,11 +88,11 @@ iz_dun03,197,144	monster	Hydra	1068,1,2960000,150000
 //==================================================
 // iz_dun04 - Undersea Tunnel
 //==================================================
-iz_dun04,0,0	monster	Merman	1264,52,5000
-iz_dun04,0,0	monster	Strouf	1065,50,5000
-iz_dun04,0,0	monster	Marine Sphere	1142,10,5000
-iz_dun04,0,0	monster	Swordfish	1069,10,5000
-iz_dun04,0,0	monster	Deviace	1108,3,5000
+iz_dun04,0,0	monster	Merman	1264,80,5000
+iz_dun04,0,0	monster	Strouf	1065,100,5000
+iz_dun04,0,0	monster	Marine Sphere	1142,20,5000
+iz_dun04,0,0	monster	Swordfish	1069,20,5000
+iz_dun04,0,0	monster	Deviace	1108,6,5000
 iz_dun04,80,246	monster	Hydra	1068,1,294000,150000
 iz_dun04,79,246	monster	Hydra	1068,1,300000,150000
 iz_dun04,111,41	monster	Hydra	1068,1,300000,150000

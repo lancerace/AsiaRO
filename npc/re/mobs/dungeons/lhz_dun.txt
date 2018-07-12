@@ -31,37 +31,76 @@
 lhz_dun01,0,0	monster	Remover	1682,100,5000
 lhz_dun01,0,0	monster	Anopheles	1627,70,5000
 lhz_dun01,0,0	monster	Metaling	1613,50,5000
-lhz_dun01,0,0	monster	Kavach Icarus	1656,13,5000
-lhz_dun01,0,0	monster	Errende Ebecee	1655,13,5000
-lhz_dun01,0,0	monster	Laurell Weinder	1657,11,5000
-lhz_dun01,0,0	monster	Wickebine Tres	1653,11,5000
-lhz_dun01,0,0	monster	Armeyer Dinze	1654,8,5000
-lhz_dun01,0,0	monster	Egnigem Cenia	1652,8,5000
-lhz_dun01,0,0	monster	Gemini-S58	1681,1,5000
+lhz_dun01,0,0	monster	Kavach Icarus	1656,1,5000
+lhz_dun01,0,0	monster	Kavach Icarus	1656,5,600000
+lhz_dun01,0,0	monster	Kavach Icarus	1656,7,900000
+lhz_dun01,0,0	monster	Errende Ebecee	1655,1,5000
+lhz_dun01,0,0	monster	Errende Ebecee	1655,1,900000
+lhz_dun01,0,0	monster	Laurell Weinder	1657,1,5000
+lhz_dun01,0,0	monster	Laurell Weinder	1657,7,600000
+lhz_dun01,0,0	monster	Wickebine Tres	1653,1,5000
+lhz_dun01,0,0	monster	Wickebine Tres	1653,4,600000
+lhz_dun01,0,0	monster	Wickebine Tres	1653,6,900000
+lhz_dun01,0,0	monster	Armeyer Dinze	1654,1,5000
+lhz_dun01,0,0	monster	Armeyer Dinze	1654,7,900000
+lhz_dun01,0,0	monster	Egnigem Cenia	1652,1,5000
+lhz_dun01,0,0	monster	Egnigem Cenia	1652,1,600000
+lhz_dun01,0,0	monster	Egnigem Cenia	1652,6,900000
+lhz_dun01,0,0	monster	Gemini-S58	1681,1,7200000
 
 //==================================================
 // lhz_dun02 - Somatology Laboratory
 //==================================================
-lhz_dun02,0,0	monster	Laurell Weinder	1657,50,5000
-lhz_dun02,0,0	monster	Wickebine Tres	1653,50,5000
-lhz_dun02,0,0	monster	Kavach Icarus	1656,50,5000
-lhz_dun02,0,0	monster	Errende Ebecee	1655,50,5000
-lhz_dun02,0,0	monster	Egnigem Cenia	1652,50,5000
+lhz_dun02,0,0	monster	Laurell Weinder	1657,26,5000
+lhz_dun02,0,0	monster	Laurell Weinder	1657,14,120000
+lhz_dun02,0,0	monster	Laurell Weinder	1657,10,300000
+lhz_dun02,0,0	monster	Wickebine Tres	1653,26,5000
+lhz_dun02,0,0	monster	Wickebine Tres	1653,14,120000
+lhz_dun02,0,0	monster	Wickebine Tres	1653,10,300000
+lhz_dun02,0,0	monster	Kavach Icarus	1656,26,5000
+lhz_dun02,0,0	monster	Kavach Icarus	1656,14,120000
+lhz_dun02,0,0	monster	Kavach Icarus	1656,10,300000
+lhz_dun02,0,0	monster	Errende Ebecee	1655,26,5000
+lhz_dun02,0,0	monster	Errende Ebecee	1655,14,120000
+lhz_dun02,0,0	monster	Errende Ebecee	1655,10,300000
+lhz_dun02,0,0	monster	Egnigem Cenia	1652,26,5000
+lhz_dun02,0,0	monster	Egnigem Cenia	1652,14,120000
+lhz_dun02,0,0	monster	Egnigem Cenia	1652,10,300000
 lhz_dun02,0,0	monster	Armeyer Dinze	1654,50,5000
-lhz_dun02,0,0	monster	Remover	1682,20,5000
-lhz_dun02,0,0	monster	Gemini-S58	1681,10,5000
-lhz_dun02,0,0	monster	Eremes Guile	1635,1,5000
+lhz_dun02,0,0	monster	Armeyer Dinze	1654,14,120000
+lhz_dun02,0,0	monster	Armeyer Dinze	1654,10,300000
+lhz_dun02,0,0	monster	Remover	1682,20,300000
+lhz_dun02,0,0	monster	Gemini-S58	1681,10,5400000
+lhz_dun02,0,0	monster	Eremes Guile	1635,1,180000
 lhz_dun02,0,0,0,0	boss_monster	Egnigem Cenia	1658,1,7200000,600000,1
 
 //==================================================
 // lhz_dun03 - Somatology Laboratory
 //==================================================
-lhz_dun03,0,0	monster	Cecil Damon	1638,81,5000
-lhz_dun03,0,0	monster	Kathryne Keyron	1639,57,5000
-lhz_dun03,0,0	monster	Margaretha Sorin	1637,42,5000
-lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,42,5000
-lhz_dun03,0,0	monster	Eremes Guile	1635,42,5000
-lhz_dun03,0,0	monster	Seyren Windsor	1634,42,5000
+lhz_dun03,0,0	monster	Cecil Damon	1638,24,5000
+lhz_dun03,0,0	monster	Cecil Damon	1638,52,120000
+lhz_dun03,0,0	monster	Cecil Damon	1638,4,180000
+lhz_dun03,0,0	monster	Cecil Damon	1638,1,600000
+lhz_dun03,0,0	monster	Kathryne Keyron	1639,16,5000
+lhz_dun03,0,0	monster	Kathryne Keyron	1639,36,120000
+lhz_dun03,0,0	monster	Kathryne Keyron	1639,4,180000
+lhz_dun03,0,0	monster	Kathryne Keyron	1639,1,600000
+lhz_dun03,0,0	monster	Margaretha Sorin 1637,11,120000
+lhz_dun03,0,0	monster	Margaretha Sorin 1637,24,180000
+lhz_dun03,0,0	monster	Margaretha Sorin 1637,4,300000
+lhz_dun03,0,0	monster	Margaretha Sorin 1637,1,540000
+lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,21,120000
+lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,14,180000
+lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,6,300000
+lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,1,600000
+lhz_dun03,0,0	monster	Eremes Guile	1635,14,120000
+lhz_dun03,0,0	monster	Eremes Guile	1635,21,180000
+lhz_dun03,0,0	monster	Eremes Guile	1635,6,300000
+lhz_dun03,0,0	monster	Eremes Guile	1635,1,540000
+lhz_dun03,0,0	monster	Seyren Windsor	1634,21,120000
+lhz_dun03,0,0	monster	Seyren Windsor	1634,14,180000
+lhz_dun03,0,0	monster	Seyren Windsor	1634,6,300000
+lhz_dun03,0,0	monster	Seyren Windsor	1634,1,600000
 lhz_dun03,139,158,20,11	monster	Assassin Cross Eremes	1641,1,2580000,2340000
 lhz_dun03,138,138,36,34	monster	High Wizard Kathryne	1645,1,2580000,2460000
 lhz_dun03,114,138,12,16	monster	Lord Knight Seyren	1640,1,2700000,2400000
