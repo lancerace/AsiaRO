@@ -85,10 +85,10 @@ lhz_dun03,0,0	monster	Kathryne Keyron	1639,16,5000
 lhz_dun03,0,0	monster	Kathryne Keyron	1639,36,120000
 lhz_dun03,0,0	monster	Kathryne Keyron	1639,4,180000
 lhz_dun03,0,0	monster	Kathryne Keyron	1639,1,600000
-lhz_dun03,0,0	monster	Margaretha Sorin 1637,11,120000
-lhz_dun03,0,0	monster	Margaretha Sorin 1637,24,180000
-lhz_dun03,0,0	monster	Margaretha Sorin 1637,4,300000
-lhz_dun03,0,0	monster	Margaretha Sorin 1637,1,540000
+lhz_dun03,0,0	monster	Margaretha Sorin	1637,11,120000
+lhz_dun03,0,0	monster	Margaretha Sorin	1637,24,180000
+lhz_dun03,0,0	monster	Margaretha Sorin	1637,4,300000
+lhz_dun03,0,0	monster	Margaretha Sorin	1637,1,540000
 lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,21,120000
 lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,14,180000
 lhz_dun03,0,0	monster	Howard Alt-Eisen	1636,6,300000

@@ -106,7 +106,7 @@ pay_fild08,0,0	monster	Poring	1002,30
 pay_fild08,0,0	monster	Willow	1010,50
 pay_fild08,0,0	monster	Pupa	1008,20
 pay_fild08,0,0	monster	Spore	1014,70
-pay_fild08,0,0	monster	Caramel 1103,50
+pay_fild08,0,0	monster	Caramel	1103,50
 pay_fild08,0,0	monster	Green Plant	1080,10,60000,30000
 pay_fild08,143,156,40,40	monster	Shining Plant	1083,1,3600000,1800000
 

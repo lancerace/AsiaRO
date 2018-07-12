@@ -19,7 +19,7 @@ orcsdun01,0,0	monster	Familiar	1005,15,5000
 orcsdun01,0,0	monster	Steel Chonchon	1042,10,5000
 orcsdun01,0,0	monster	Drainliar	1111,5,5000
 orcsdun01,0,0	monster	Martin	1145,5,5000
-orcsdun01,0,0	monster	Chonchon 1011,5,5000
+orcsdun01,0,0	monster	Chonchon	1011,5,5000
 orcsdun01,167,133,5,5	monster	Black Mushroom	1084,5,900000,450000
 orcsdun01,67,34,5,5	monster	Black Mushroom	1084,5,900000,450000
 orcsdun01,83,50,5,5	monster	White Plant	1082,2,180000,90000

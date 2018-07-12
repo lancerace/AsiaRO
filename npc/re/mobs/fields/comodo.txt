@@ -16,8 +16,8 @@
 // cmd_fild01 - Papuchicha Forest
 //==================================================
 cmd_fild01,0,0	monster	Rocker	1052,45,5000
-cmd_fild01,0,0	monster	Poporing 1031,40,5000
-cmd_fild01,0,0	monster	Vocal 1088,1,1800000
+cmd_fild01,0,0	monster	Poporing	1031,40,5000
+cmd_fild01,0,0	monster	Vocal	1088,1,1800000
 cmd_fild01,0,0	monster	Poison Spore	1077,60,5000
 cmd_fild01,0,0	monster	Alligator	1271,105,5000
 cmd_fild01,0,0	monster	Greatest General	1277,100,5000
@@ -186,9 +186,9 @@ cmd_fild08,130,201,10,10	monster	Yellow Plant	1081,4,1800000,900000
 //==================================================
 cmd_fild09,0,0	monster	Drops	1113,30
 cmd_fild09,0,0	monster	Peco Peco Egg	1047,25
-cmd_fild09,0,0	monster	Peco Peco 1019,42
+cmd_fild09,0,0	monster	Peco Peco	1019,42
 cmd_fild09,0,0	monster	Condor	1009,30
 cmd_fild09,0,0	monster	Anacondaq	1030,50
 cmd_fild09,0,0	monster	Hode	1127,60
-cmd_fild09,0,0  monster	Goblin Archer	1258,3,123000
-cmd_fild09,0,0  monster	Kobold Archer	1282,2,123000
+cmd_fild09,0,0	monster	Goblin Archer	1258,3,123000
+cmd_fild09,0,0	monster	Kobold Archer	1282,2,123000

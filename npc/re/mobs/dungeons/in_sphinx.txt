@@ -20,7 +20,7 @@ in_sphinx1,0,0	monster	Drainliar	1111,40,5000
 in_sphinx1,0,0	monster	Requiem	1164,10,5000
 in_sphinx1,0,0	monster	Zerom	1178,95,5000
 in_sphinx1,0,0	monster	Matyr	1146,20,5000
-in_sphinx1,0,0	monster	Anacondaq 1030,50,5000
+in_sphinx1,0,0	monster	Anacondaq	1030,50,5000
 
 //==================================================
 // in_sphinx2 - Sphinx

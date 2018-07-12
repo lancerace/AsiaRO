@@ -18,8 +18,8 @@ c_tower1,0,0	monster	Punk	1199,65,5000
 c_tower1,0,0	monster	Bathory	1102,10,5000
 c_tower1,0,0	monster	Elder	1377,2,300000
 c_tower1,0,0	monster	Clock Tower Manager	1270,1,30000
-c_tower1,0,0	monster	Baphomet Jr. 1101,26,5000
-c_tower1,0,0	monster	Baphomet Jr. 1101,19,60000
+c_tower1,0,0	monster	Baphomet Jr.	1101,26,5000
+c_tower1,0,0	monster	Baphomet Jr.	1101,19,60000
 
 
 //==================================================
@@ -29,10 +29,10 @@ c_tower2,0,0	monster	Clock	1269,40,5000
 c_tower2,0,0	monster	Clock	1269,15,420000
 c_tower2,0,0	monster	Punk	1199,45,5000
 c_tower2,0,0	monster	Archer Skeleton	1016,20,5000
-c_tower2,0,0	monster	Deviruchi 1109,1,340000
-c_tower2,0,0	monster	Deviruchi 1109,1,330000
-c_tower2,0,0	monster	Deviruchi 1109,1,360000
-c_tower2,0,0	monster	Deviruchi 1109,3,380000
+c_tower2,0,0	monster	Deviruchi	1109,1,340000
+c_tower2,0,0	monster	Deviruchi	1109,1,330000
+c_tower2,0,0	monster	Deviruchi	1109,1,360000
+c_tower2,0,0	monster	Deviruchi	1109,3,380000
 c_tower2,0,0	monster	Elder	1377,2,300000
 c_tower2,0,0	monster	Clock Tower Manager	1270,1,30000
 
@@ -84,7 +84,7 @@ c_tower4,0,0	monster	Elder	1377,1,1800000,600000
 c_tower4,42,41	monster	Executioner	1205,1,7200000
 c_tower4,0,0	monster	Tirfing	1204,1,7200000
 c_tower4,0,0	monster	Mysteltainn	1203,1,7200000
-c_tower4,0,0	monster	Abysmal Knight 1219,1,3600000
+c_tower4,0,0	monster	Abysmal Knight	1219,1,3600000
 
 //==================================================
 // c_tower2_ - Clock Tower Nightmare 2f

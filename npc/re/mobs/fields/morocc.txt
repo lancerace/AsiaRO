@@ -38,8 +38,8 @@ moc_fild02,0,0	monster	Condor	1009,25,5000
 moc_fild02,0,0	monster	Peco Peco Egg	1047,15
 moc_fild02,0,0	monster	Picky	1050,70,5000
 moc_fild02,0,0	monster	Picky	1049,70,5000
-moc_fild02,0,0	monster	Savage 1166,3,5000
-moc_fild02,0,0	monster	Savage Babe 1167,30,5000
+moc_fild02,0,0	monster	Savage	1166,3,5000
+moc_fild02,0,0	monster	Savage Babe	1167,30,5000
 moc_fild02,89,315	monster	Yellow Plant	1081,1,180000,90000
 moc_fild02,99,261	monster	Yellow Plant	1081,1,180000,90000
 moc_fild02,94,195	monster	Yellow Plant	1081,1,180000,90000

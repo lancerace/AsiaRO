@@ -54,7 +54,7 @@ gl_cas02,0,0	monster	Alice	1275,1,5000
 gl_cas02,102,180	monster	Whisper	1185,2,1800000,900000
 gl_cas02,104,145,5,5	monster	Mysteltainn	1203,2,7200000,3600000
 gl_cas02,0,0	monster	Ogretooth	1204,1,7200000,3600000
-gl_cas02,0,0	boss_monster Baphomet 1039,1,3600000
+gl_cas02,0,0	monster Baphomet 1039,1,3600000
 
 
 //==================================================
