@@ -61,14 +61,14 @@ gl_cas02,0,0	boss_monster	Baphomet	1039,1,3600000
 //==================================================
 gl_church,0,0	monster	Whisper	1185,20,5000
 gl_church,0,0	monster	Ghoul	1036,25,5000
-gl_church,0,0	monster	Brilight 1211,25,5000
-gl_church,0,0	monster	Nightmare 1061,30,5000
-gl_church,0,0	monster	Joker 1131,5,5000
+gl_church,0,0	monster	Brilight	1211,25,5000
+gl_church,0,0	monster	Nightmare	1061,30,5000
+gl_church,0,0	monster	Joker	1131,5,5000
 gl_church,0,0	monster	Evil Druid	1117,25,5000
 gl_church,0,0	monster	Wraith	1192,5,5000
 gl_church,0,0	monster	Elusive Evil Druid	2838,1,120000
 gl_church,0,0	monster	Wraith Dead	1291,1,3600000,1800000
-gl_church,0,0	monster Dark Priest	1198,3,1800000
+gl_church,0,0	monster	Dark Priest	1198,3,1800000
 
 //==================================================
 // gl_chyard - Glast Heim Churchyard
@@ -148,7 +148,7 @@ gl_knt02,0,0	monster	Bloody Knight	1268,1,3600000,1800000
 // gl_prison - Glast Heim Underprison
 //==================================================
 gl_prison,0,0	monster	Zombie Prisoner	1197,42,5000
-gl_prison,0,0	monster	Skeleton Prisoner 1196,42,5000
+gl_prison,0,0	monster	Skeleton Prisoner	1196,42,5000
 gl_prison,0,0	monster	Hunter Fly	1035,10,5000
 gl_prison,0,0	monster	Whisper	1179,10,5000
 gl_prison,0,0	monster	Zealotus	1200,1,3600000
