@@ -151,7 +151,7 @@ gl_prison,0,0	monster	Zombie Prisoner	1197,42,5000
 gl_prison,0,0	monster	Skeleton Prisoner 1196,42,5000
 gl_prison,0,0	monster	Hunter Fly	1035,10,5000
 gl_prison,0,0	monster	Whisper	1179,10,5000
-gl_prison,0,0	monster	Zealotus 1200,1,3600000
+gl_prison,0,0	monster	Zealotus	1200,1,3600000
 //==================================================
 // gl_prison1 - Glast Heim Underprison
 //==================================================
