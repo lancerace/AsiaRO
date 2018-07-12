@@ -3,7 +3,7 @@
 
 #ifndef _CONFIG_CUSTOM_DEFINES_PRE_HPP_
 #define _CONFIG_CUSTOM_DEFINES_PRE_HPP_
-
+#define PACKETVER 20170614
 /**
  * rAthena configuration file (http://rathena.org)
  * For detailed guidance on these check http://rathena.org/wiki/SRC/config/
